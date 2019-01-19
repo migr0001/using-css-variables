@@ -25,4 +25,5 @@ html {
   background-color: var(--color-primary);
   border-color: var(--color-primary);
   border-radius: var(--border-radius);
+  font-family: var(--font-secondary);
 }
